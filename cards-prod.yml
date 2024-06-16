@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to FinVista Nexus Bank's Cards related prod APIs "
   contactDetails:
-    name: "Dakota Steel - Code Master"
-    email: "dakota@finvistanexus.com"
+    name: "Mridul Steel - Code Master"
+    email: "{cipher}51fcc7ca36e3104aca9f80e3abde2a52ff1781b182d27ac4c0c0662748c1118ad26546b7519415d89f51070aaef8f709"
   onCallSupport:
-    - (555) 987-6543
-    - (555) 876-5432
+    - "{cipher}0b771f5871c10965bbe84a0fd0978d176cde0fe7c80bb416f46696ecea248baf"
+    - "{cipher}78bf74c9e97264082f658df442bed378a1c37f09ffd2550cf15bda6de9dcfec5"

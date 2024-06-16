@@ -4,8 +4,8 @@ build:
 loans:
   message: "Welcome to FinVista Nexus Bank's Loans related prod APIs "
   contactDetails:
-    name: "Harper Stone - Architect"
-    email: "harper@finvistanexus.com"
+    name: "Akxar Stone - Architect"
+    email: "{cipher}1cd95cecc7151a7d86fde0fe60f8599bb68084e23bffb5a40876bf58b03cbdc6bb666d361e6db13cd95840c0ac79bc57"
   onCallSupport:
-    - (555) 432-1098
-    - (555) 321-0987
+    - "{cipher}bf15a674dc02c3edf42e634b12786736a0c13da78d5dca99055cb21af147dae1"
+    - "{cipher}c4b547d98623e07644ad52df5ce6d069ca159d56e6c27ce15d48433e47457146"

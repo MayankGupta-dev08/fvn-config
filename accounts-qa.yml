@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to FinVista Nexus Bank's Accounts related qa APIs "
   contactDetails:
-    name: "Jordan Ember - QA Engineer"
-    email: "jordan@finvistanexus.com"
+    name: "Virat Ember - QA Engineer"
+    email: "{cipher}eec3efcd3ba45d07de295355bbb920a35aa5d08aef3a91f04a5ac0d6d032fb72ada8acabbcf6eb623e5656daf0904c8e"
   onCallSupport:
-    - (555) 888-2345
-    - (555) 999-3456
+    - "{cipher}ebf01bb1a983a44696822d016fd360d1f30cc34916f9b05913150d9ebeede7a7"
+    - "{cipher}38f0398b62034ff19b736da97f2c4ba92700d814fb394635142e5d0a0148a0f0"

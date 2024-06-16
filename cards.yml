@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to FinVista Nexus Bank's Cards related dev APIs "
   contactDetails:
-    name: "Avery Blaze - Tech Wizard"
-    email: "avery@finvistanexus.com"
+    name: "Rishabh Blaze - Tech Wizard"
+    email: "{cipher}dd48498f005986467e8d48c58294417b308f0dea3062265766f7157c4c86322d1936963f84821c7732b1af843295a45e"
   onCallSupport:
-    - (555) 765-4321
-    - (555) 876-5432
+    - "{cipher}5d04cef33d725a406a6420e81148b77f0a0611217dbdc95c263e124efb455143"
+    - "{cipher}7114bc333ec5f1825b75c19eda7d1c4e616da26d1ec25055295a778b34cdaae1"

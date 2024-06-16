@@ -4,8 +4,8 @@ build:
 loans:
   message: "Welcome to FinVista Nexus Bank's Loans related qa APIs "
   contactDetails:
-    name: "Reese Vortex - Software Sage"
-    email: "reese@finvistanexus.com"
+    name: "Kuldeep Vortex - Software Sage"
+    email: "{cipher}030e5aec8831bfa15a8cec8021068b34e9cbc32339057dbc9d5e9c3e7b8c1dadcf16cb0869237e9c345d6be6d70bf5fb"
   onCallSupport:
-    - (555) 543-2198
-    - (555) 432-1987
+    - "{cipher}8d38b828c778f9c1624e40079e17f332c2a1d1ec9cfd447794275d60cb2b603a"
+    - "{cipher}155231bc07b1ed5ab684f1c116c6cbfbef8071cd0502d9efb53eb883d6e68ee5"

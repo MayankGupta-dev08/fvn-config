@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to FinVista Nexus Bank's Cards related qa APIs "
   contactDetails:
-    name: "Phoenix Sky - QA Guru"
-    email: "phoenix@finvistanexus.com"
+    name: "Hardik Phoenix - QA Guru"
+    email: "{cipher}5e8142d7fe7e94d297e9260ce2f69f5c3cd756879d93d92fc87adb902cc9f9dca54705ee7b95d333616e6a37128407d9"
   onCallSupport:
-    - (555) 654-3210
-    - (555) 543-2109
+    - "{cipher}e050104c714daab0eabd012b9d9f1e64737c307e51350e965fde7f5af1f6d261"
+    - "{cipher}21bf663e4c002c2b141bd102b538f95f7f511656a875b395e866c06704a086d1"

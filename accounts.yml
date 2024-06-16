@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to FinVista Nexus Bank's Accounts related dev APIs "
   contactDetails:
-    name: "Alex Nightshade - Developer"
+    name: "Shikhar Nightshade - Developer"
     email: "{cipher}4fb5d665981b5de57b294ebae2208d24d050f5464938f1f41b81d00b9b9036e3efd9c9603f6b7daf93069d47ccf503be"
   onCallSupport:
-    - (555) 666-7890
-    - (555) 777-8901
+    - "{cipher}aaca3b5393f578ba5da34e79a0ff5cbcda6fa2c4c6b7ae2c9c3cdb0faeec3c07"
+    - "{cipher}2ac82301a1a16cb53512195ad3bd4221cbbfb9cd8df8f9e900e6c48c052c0cb3"
