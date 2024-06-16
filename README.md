@@ -2,4 +2,4 @@
 
 ---
 
-[FinVista Nexus](https://github.com/MayankGupta-dev08/FinVista-Nexus/tree/stable_prod)
+## [FinVista Nexus](https://github.com/MayankGupta-dev08/FinVista-Nexus/tree/stable_prod)
