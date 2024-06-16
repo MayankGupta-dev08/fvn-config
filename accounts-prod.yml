@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to FinVista Nexus Bank's Accounts related prod APIs "
   contactDetails:
     name: "Riley Storm - Senior Developer"
-    email: "riley@finvistanexus.com"
+    email: "{cipher}4c19e953ce57d98f6f0e2a5f4b47af5bca5753382c43fd9a79187b495cc299e035dfa808d71c423204a46429cceac760"
   onCallSupport:
-    - (555) 123-4567
-    - (555) 234-5678
+    - "{cipher}964989779f7ce78d96c522d4c66eda7ea769de46b2eda95ef5075886f7f0ef73"
+    - "{cipher}26af3a3112c263919cf9a829a99c9e5188901036020ef48e4e7f75adf0490042"
