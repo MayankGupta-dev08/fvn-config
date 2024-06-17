@@ -2,7 +2,7 @@ build:
   version: 1.3.0
 
 loans:
-  message: "Welcome to FinVista Nexus Bank's Loans related production APIs"
+  message: "Welcome to FinVista Nexus Bank's Loans related prod APIs"
   contactDetails:
     name: "Akxar Stone - Architect"
     email: "{cipher}1cd95cecc7151a7d86fde0fe60f8599bb68084e23bffb5a40876bf58b03cbdc6bb666d361e6db13cd95840c0ac79bc57"
