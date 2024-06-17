@@ -2,7 +2,7 @@ build:
   version: 1.1.2
 
 cards:
-  message: "Welcome to FinVista Nexus Bank's Cards related production APIs"
+  message: "Welcome to FinVista Nexus Bank's Cards related prod APIs"
   contactDetails:
     name: "Mridul Steel - Code Master"
     email: "{cipher}51fcc7ca36e3104aca9f80e3abde2a52ff1781b182d27ac4c0c0662748c1118ad26546b7519415d89f51070aaef8f709"
