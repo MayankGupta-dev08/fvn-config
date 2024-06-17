@@ -2,7 +2,7 @@ build:
   version: 3.0.2
 
 cards:
-  message: "Welcome to FinVista Nexus Bank's Cards related dev APIs "
+  message: "Welcome to FinVista Nexus Bank's Cards related APIs"
   contactDetails:
     name: "Rishabh Blaze - Tech Wizard"
     email: "{cipher}dd48498f005986467e8d48c58294417b308f0dea3062265766f7157c4c86322d1936963f84821c7732b1af843295a45e"
